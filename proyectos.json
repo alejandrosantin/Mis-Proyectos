@@ -29,5 +29,9 @@
     {
         "nombre": "Agenda una cita",
         "link": "https://kungfucoding23.github.io/Agenda-una-cita/"
+    },
+    {
+        "nombre": "Cotizador de prestamos con React",
+        "link": "https://compassionate-meitner-24d90f.netlify.app/"
     }
 ]
