@@ -33,5 +33,9 @@
     {
         "nombre": "Cotizador de prestamos con React",
         "link": "https://compassionate-meitner-24d90f.netlify.app/"
+    },
+    {
+        "nombre": "Busca el Clima",
+        "link": "https://kungfucoding23.github.io/API-Clima/"
     }
 ]
