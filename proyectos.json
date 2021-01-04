@@ -37,5 +37,9 @@
     {
         "nombre": "Busca el Clima",
         "link": "https://kungfucoding23.github.io/API-Clima/"
+    },
+    {
+        "nombre": "Buscador de imagenes",
+        "link": "https://kungfucoding23.github.io/Buscador-de-imagenes/"
     }
 ]
